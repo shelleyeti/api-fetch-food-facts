@@ -1,0 +1,53 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "Spinach & Chive Linguine",
+      "category": "pasta",
+      "ethnicity": "italian",
+      "barcode": "00286565"
+    },
+    {
+      "id": 2,
+      "name": "Massaman curry",
+      "category": "curry",
+      "ethnicity": "thai",
+      "barcode": "0016229008635"
+    },
+    {
+      "id": 3,
+      "name": "Green curry",
+      "category": "curry",
+      "ethnicity": "thai",
+      "barcode": "0016229008611"
+    },
+    {
+      "id": 4,
+      "name": "Ravioli Crab",
+      "category": "pasta",
+      "ethnicity": "italian",
+      "barcode": "0097137305771"
+    },
+    {
+      "id": 5,
+      "name": "Tuscan Soup",
+      "category": "vegetarian",
+      "ethnicity": "italian",
+      "barcode": "0011150479547"
+    },
+    {
+      "id": 6,
+      "name": "Pepperoni Pizza",
+      "category": "pizza",
+      "ethnicity": "american",
+      "barcode": "0011150199537"
+    },
+    {
+      "id": 7,
+      "name": "Toast",
+      "category": "plain",
+      "ethnicity": "american",
+      "barcode": "0041250675112"
+    }
+  ]
+}
